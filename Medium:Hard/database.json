@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "name": "Joshua Lewis",
+      "id": 1,
+      "salary": 100000,
+      "department": "Musician/Developer"
+    },
+    {
+      "name": "Briggs Peters",
+      "id": 2,
+      "salary": 77000,
+      "department": "RND"
+    },
+    {
+      "name": "Jim Carrey",
+      "id": 3,
+      "salary": 2000000,
+      "department": "Actor"
+    },
+    {
+      "name": "Heath Ledger",
+      "id": 4,
+      "salary": 130000,
+      "department": "Actor"
+    },
+    {
+      "name": "George St. Pierre",
+      "id": 5,
+      "salary": 150000,
+      "department": "UFC"
+    },
+    {
+      "name": "Michael Jackson",
+      "id": 6,
+      "salary": 100000000,
+      "department": "King of Pop"
+    },
+    {
+      "name": "Aaron Marshall",
+      "id": 7,
+      "salary": 125000,
+      "department": "Musician"
+    },
+    {
+      "name": "Bruce Wayne",
+      "id": 8,
+      "salary": 10000000,
+      "department": "Hero"
+    },
+    {
+      "name": "Josh Groban",
+      "id": 9,
+      "salary": 750000,
+      "department": "Musician"
+    },
+    {
+      "name": "Dave Chapelle",
+      "id": 10,
+      "salary": 4500000,
+      "department": "Comedian"
+    }
+  ]
+}

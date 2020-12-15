@@ -1,0 +1,14 @@
+{
+  "name": "how_to_npm",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "repository": "{https://github.com/JLewis777/How_to-npm.git}",
+  "license": "ISC",
+  "dependencies": {}
+}
